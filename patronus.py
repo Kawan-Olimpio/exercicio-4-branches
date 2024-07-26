@@ -1,5 +1,5 @@
 desenho = """
-HARRY'S PATRONUS
+PATRONO DE LILY
 
    /|       |\\
 `__\\       //__'
